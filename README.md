@@ -7,7 +7,7 @@ I'm Praveen and I'm a Software Developer/Engineer. You can find me on,
 
 # :pencil2: **Blog & Writings**
 
-Apart from coding, I also maintain a blog where you can find in [praveenr.herokuapp.com](https://praveenr.herokuapp.com/blog) as well as on [Medium]() and [Dev.to]().
+Apart from coding, I also maintain a blog where you can find in [praveenr.herokuapp.com](https://praveenr.herokuapp.com/blog) as well as on [Hashnode](https://praveenr.hashnode.dev).
 
 <br />
 
