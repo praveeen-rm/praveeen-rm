@@ -6,14 +6,14 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
  
 **BIO:**
 
-- 🏢  I'm currently working at [Ontoborn](https://ontoborn.com)
+- 🏢  I'm currently working at [Ontoborn Technologies LLC](https://ontoborn.com)
 - ⚙️ I use daily: `.go`, `.js`, `.py`, `.sql `, `.html`, `.css`..
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active in the **Twitter** and **LinkedIn**
 - 🌱 Learning all about **Open Source**
 - 🤖 Intrests in **ML/AI**
 - 💬 Ping me about **Web Development**
 - 📫 Portfolio: [praveeen.herokuapp.com](https://praveeen.herokuapp.com) 
-- ⚡️ Fun fact: I'm a huge fan of <img class="img-responsive" width="120" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
+- ⚡️ Fun fact: I'm a huge fan of <img class="img-responsive" width="100" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
 
 ---
 
