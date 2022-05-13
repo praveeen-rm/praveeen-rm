@@ -20,8 +20,8 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 **Follow me:**
 
 [![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveenrp-/) <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/prave__in?style=social)](https://twitter.com/praveenrm-) <br>
-[![GitHub Praveen](https://img.shields.io/github/followers/praveeenr?label=follow&style=social)](https://github.com/praveeen-rm) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/praveenrm_?style=social)](https://twitter.com/praveenrm_) <br>
+[![GitHub Praveen](https://img.shields.io/github/followers/praveeen-rm?label=follow&style=social)](https://github.com/praveeen-rm) 
 
 <hr>
 
