@@ -12,7 +12,7 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 - 🌱 Learning all about **Open Source**
 - 🤖 Intrests in **ML/AI**
 - 💬 Ping me about **Web Development**
-- 📫 Portfolio: [praveeen.herokuapp.com](https://rpraveen.pythonanywhere.com) 
+- 📫 Portfolio: [rpraveen.pythonanywhere.com](https://rpraveen.pythonanywhere.com) 
 - ⚡️ Fun fact: I'm a huge fan of <img class="img-responsive" width="100" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
 
 ---
@@ -20,8 +20,8 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 **Follow me:**
 
 [![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rpraveen-in/) <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/praveenrm_?style=social)](https://twitter.com/rpraveen_in) <br>
-[![GitHub Praveen](https://img.shields.io/github/followers/praveeen-rm?label=follow&style=social)](https://github.com/rpraveen-in) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/rpraveen_in?style=social)](https://twitter.com/rpraveen_in) <br>
+[![GitHub Praveen](https://img.shields.io/github/followers/rpraveen-in?label=follow&style=social)](https://github.com/rpraveen-in) 
 
 <hr>
 
