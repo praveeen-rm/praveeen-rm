@@ -19,18 +19,18 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 
 **Follow me:**
 
-[![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rprav-in/) <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/rpraveen_in?style=social)](https://twitter.com/rprav_in) <br>
-[![GitHub Praveen](https://img.shields.io/github/followers/rpraveen-in?label=follow&style=social)](https://github.com/rprav-n) 
+[![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rprav-n/) <br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/rprav_n?style=social)](https://twitter.com/rprav_n) <br>
+[![GitHub Praveen](https://img.shields.io/github/followers/rprav-n?label=follow&style=social)](https://github.com/rprav-n) 
 
 <hr>
 
 **Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpraveen-in&layout=compact)](https://github.com/rpraveen-in/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprav-n&layout=compact)](https://github.com/rprav-n/github-readme-stats)
 
 
-![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=rpraveen-in&show_icons=true&layout=compact)
+![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=rprav-n&show_icons=true&layout=compact)
 
 
 
