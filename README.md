@@ -19,9 +19,9 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 
 **Follow me:**
 
-[![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rpraveen-in/) <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/rpraveen_in?style=social)](https://twitter.com/rpraveen_in) <br>
-[![GitHub Praveen](https://img.shields.io/github/followers/rpraveen-in?label=follow&style=social)](https://github.com/rpraveen-in) 
+[![LinkedIn](https://img.shields.io/badge/-Praveen-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rprav-in/) <br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/rpraveen_in?style=social)](https://twitter.com/rprav_in) <br>
+[![GitHub Praveen](https://img.shields.io/github/followers/rpraveen-in?label=follow&style=social)](https://github.com/rprav-n) 
 
 <hr>
 
