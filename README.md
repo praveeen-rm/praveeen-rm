@@ -2,6 +2,8 @@
 
 I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://ontoborn.com) based in India.
 
+<img src='https://skillicons.dev/icons?i=go,js,py,swift,react,svelte,mongodb,mysql,godot,flutter,aws,django'/>
+
 <img src='https://komarev.com/ghpvc/?username=rprav-n&label=Profile%20views&color=0e75b6&style=flat' />
 
 ---
