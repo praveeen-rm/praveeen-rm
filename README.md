@@ -16,8 +16,8 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 - 🌱 Learning all about **Open Source**
 - 🤖 Intrests in **ML/AI**
 - 💬 Ping me about **Web Development**
-- 📫 Portfolio: [rpraveen.pythonanywhere.com](https://rpraveen.pythonanywhere.com) 
-- ⚡️ Fun fact: I'm a huge fan of <img class="img-responsive" width="100" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
+- 📫 Portfolio: [praveen.works](http://praveen.works) 
+- ⚡️ I'm a huge fan of <img class="img-responsive" width="100" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
 
 ---
 
