@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://ontoborn.com) based in India.
+I'm **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://ontoborn.com) based in India.
 
 <img src='https://skillicons.dev/icons?i=go,js,py,swift,react,svelte,mongodb,mysql,godot,flutter,aws,django'/>
 
@@ -11,10 +11,10 @@ I'm a **Praveen** working as a **Full Stack Developer** at [Ontoborn](https://on
 **BIO:**
 
 - 🏢  I'm currently working at [Ontoborn Technologies LLC](https://ontoborn.com)
-- ⚙️ I use daily: `.go`, `.js`, `.py`, `.sql `, `.html`, `.css`..
-- 🌍 I'm mostly active in the **Twitter** and **LinkedIn**
+- ⚙️ I use daily: `.go`, `.js`, `.swift`, `.gdscript`
+- 🌍 I'm mostly active in the **Twitter**
 - 🌱 Learning all about **Open Source**
-- 🤖 Intrests in **ML/AI**
+- 🎮 Intrests in **Game Dev**
 - 💬 Ping me about **Web Development**
 - 📫 Portfolio: [praveen.works](http://praveen.works) 
 - ⚡️ I'm a huge fan of <img class="img-responsive" width="100" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg">
